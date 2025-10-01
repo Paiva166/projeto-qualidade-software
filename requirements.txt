@@ -1,3 +1,17 @@
 # Sistema de Gerenciamento de Tarefas
+# Disciplina: Qualidade de Software
 # Python 3.x
-# Não requer bibliotecas externas
+
+# DEPENDENCIAS PRINCIPAIS:
+# - Python Standard Library
+# - Modulo JSON para persistencia
+# - Modulo OS para operacoes de arquivo
+
+# PARA TESTES:
+# - Arquivo test_tarefas.py incluido
+# - Testes de unidade basicos
+
+# CARACTERISTICAS DE QUALIDADE:
+# - ISO/IEC 25010 implementada
+# - Funcionalidade, Confiabilidade, Usabilidade
+# - Codigo modular e documentado
