@@ -1,0 +1,10 @@
+# Arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de dados (não versionar)
+tarefas.json
+
+# Arquivos temporários
+*.tmp
