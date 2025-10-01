@@ -1,2 +1,2 @@
-# Testes do Sistema de Tarefas
-print("Testes do sistema - OK")
+# Testes do Sistema
+print("Testes OK")
