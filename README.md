@@ -12,3 +12,12 @@ Sistema de gerenciamento de tarefas desenvolvido em Python para a disciplina de 
 ## 🚀 Como Usar
 ```bash
 python main.py
+📊 Qualidade de Software (ISO 25010)
+Funcionalidade - Sistema completo e funcional
+
+Confiabilidade - Tratamento de erros e validações
+
+Usabilidade - Interface intuitiva e fácil de usar
+
+👤 Desenvolvedor
+Gustavo Paiva Lima
