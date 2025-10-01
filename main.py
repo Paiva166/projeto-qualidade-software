@@ -1,3 +1,19 @@
+"""
+SISTEMA DE GERENCIAMENTO DE TAREFAS
+Disciplina: Qualidade de Software
+Professor: MSc. Sybelle Nogueira
+
+CARACTERÍSTICAS DE QUALIDADE IMPLEMENTADAS (ISO/IEC 25010):
+1. FUNCIONALIDADE: Sistema completo com todas as funcionalidades requisitadas
+2. CONFIABILIDADE: Tratamento de erros e validações de entrada  
+3. USABILIDADE: Interface intuitiva e fácil de usar
+
+CONTROLE DE VERSÃO:
+- Repositório: https://github.com/Paiva166/projeto-qualidade-software
+- Commits significativos seguindo convenção
+- Git e GitHub para versionamento
+"""
+
 # Sistema de Gerenciamento de Tarefas
 # Qualidade de Software - ISO 25010
 
